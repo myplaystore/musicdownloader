@@ -1,7 +1,7 @@
 {
 	"showUpdate": false,
 	"forcedUpdate": false,
-	"tubeDownload": false,
+	"tubeDownload": true,
 	"promotionTitle": "AD",
 	"promotionMsg": "",
 	"promotionID": "",
